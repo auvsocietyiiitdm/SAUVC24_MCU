@@ -11,6 +11,12 @@
                 "/home/phantom1402/Documents/PlatformIO/Projects/SAUVC24_MCU/include",
                 "/home/phantom1402/Documents/PlatformIO/Projects/SAUVC24_MCU/src",
                 "/home/phantom1402/.platformio/packages/framework-arduinoststm32/libraries/Servo/src",
+                "/home/phantom1402/Documents/PlatformIO/Projects/SAUVC24_MCU/.pio/libdeps/genericSTM32F411CE/Madgwick/src",
+                "/home/phantom1402/Documents/PlatformIO/Projects/SAUVC24_MCU/.pio/libdeps/genericSTM32F411CE/FXAS21002",
+                "/home/phantom1402/Documents/PlatformIO/Projects/SAUVC24_MCU/.pio/libdeps/genericSTM32F411CE/FXOS8700Q",
+                "/home/phantom1402/Documents/PlatformIO/Projects/SAUVC24_MCU/.pio/libdeps/genericSTM32F411CE/I2C-Device",
+                "/home/phantom1402/Documents/PlatformIO/Projects/SAUVC24_MCU/.pio/libdeps/genericSTM32F411CE/BlueRobotics MS5837 Library/src",
+                "/home/phantom1402/.platformio/packages/framework-arduinoststm32/libraries/Wire/src",
                 "/home/phantom1402/Documents/PlatformIO/Projects/SAUVC24_MCU/.pio/libdeps/genericSTM32F411CE/Rosserial Arduino Library/src",
                 "/home/phantom1402/.platformio/packages/framework-arduinoststm32/libraries/SPI/src",
                 "/home/phantom1402/.platformio/packages/framework-arduinoststm32/cores/arduino/avr",
@@ -45,7 +51,6 @@
                 "/home/phantom1402/.platformio/packages/framework-arduinoststm32/libraries/SoftwareSerial/src",
                 "/home/phantom1402/.platformio/packages/framework-arduinoststm32/libraries/SrcWrapper/src",
                 "/home/phantom1402/.platformio/packages/framework-arduinoststm32/libraries/SubGhz/src",
-                "/home/phantom1402/.platformio/packages/framework-arduinoststm32/libraries/Wire/src",
                 ""
             ],
             "browse": {
@@ -54,6 +59,12 @@
                     "/home/phantom1402/Documents/PlatformIO/Projects/SAUVC24_MCU/include",
                     "/home/phantom1402/Documents/PlatformIO/Projects/SAUVC24_MCU/src",
                     "/home/phantom1402/.platformio/packages/framework-arduinoststm32/libraries/Servo/src",
+                    "/home/phantom1402/Documents/PlatformIO/Projects/SAUVC24_MCU/.pio/libdeps/genericSTM32F411CE/Madgwick/src",
+                    "/home/phantom1402/Documents/PlatformIO/Projects/SAUVC24_MCU/.pio/libdeps/genericSTM32F411CE/FXAS21002",
+                    "/home/phantom1402/Documents/PlatformIO/Projects/SAUVC24_MCU/.pio/libdeps/genericSTM32F411CE/FXOS8700Q",
+                    "/home/phantom1402/Documents/PlatformIO/Projects/SAUVC24_MCU/.pio/libdeps/genericSTM32F411CE/I2C-Device",
+                    "/home/phantom1402/Documents/PlatformIO/Projects/SAUVC24_MCU/.pio/libdeps/genericSTM32F411CE/BlueRobotics MS5837 Library/src",
+                    "/home/phantom1402/.platformio/packages/framework-arduinoststm32/libraries/Wire/src",
                     "/home/phantom1402/Documents/PlatformIO/Projects/SAUVC24_MCU/.pio/libdeps/genericSTM32F411CE/Rosserial Arduino Library/src",
                     "/home/phantom1402/.platformio/packages/framework-arduinoststm32/libraries/SPI/src",
                     "/home/phantom1402/.platformio/packages/framework-arduinoststm32/cores/arduino/avr",
@@ -88,12 +99,11 @@
                     "/home/phantom1402/.platformio/packages/framework-arduinoststm32/libraries/SoftwareSerial/src",
                     "/home/phantom1402/.platformio/packages/framework-arduinoststm32/libraries/SrcWrapper/src",
                     "/home/phantom1402/.platformio/packages/framework-arduinoststm32/libraries/SubGhz/src",
-                    "/home/phantom1402/.platformio/packages/framework-arduinoststm32/libraries/Wire/src",
                     ""
                 ]
             },
             "defines": [
-                "PLATFORMIO=60110",
+                "PLATFORMIO=60111",
                 "STM32F411xE",
                 "STM32F4xx",
                 "PIO_FRAMEWORK_ARDUINO_ENABLE_CDC",
